@@ -1,0 +1,23 @@
+body {
+    margin-top: 30px;
+    margin-left: 40px;
+    margin-bottom: 30px;
+    margin-right: 30px;
+    background-color: #FFFFE0; /* Warna background kuning-muda */
+    color: blue; /* Warna tulisan biru untuk elemen selain td */
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 8px;
+}
+
+th {
+    background-color: #D3D3D3; /* Warna header table */
+    color: blue; /* Warna teks pada header tetap biru */
+}
+
+td {
+    color: black; 
+}
